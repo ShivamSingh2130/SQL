@@ -62,7 +62,6 @@ Stored Procedures are best for executing complex logic, managing transactions, a
 User Defined Functions- are ideal for calculations and transformations that can be reused in SQL expressions. 
 When to Use Each---
 
-
 Use Stored Procedures When: 
 1. You need to perform complex operations that involve multiple SQL statements. 
 2. You want to manage transactions. 
